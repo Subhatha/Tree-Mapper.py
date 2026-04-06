@@ -1,0 +1,10 @@
+commands needed
+feller buncher
+
+pip install opencv-python  
+
+and run the python to extract frames 
+python extract_frames.py
+
+now install yolo8
+pip install ultralytics

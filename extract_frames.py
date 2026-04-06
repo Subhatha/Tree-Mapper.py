@@ -1,10 +1,8 @@
 import cv2
 import os
 
-video_path = "inputtrees.mp4"
+video_path = "forest_video.mp4"  
 output_folder = "frames"
-
-
 os.makedirs(output_folder, exist_ok=True)
 
 cap = cv2.VideoCapture(video_path)
