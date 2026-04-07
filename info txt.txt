@@ -8,3 +8,7 @@ python extract_frames.py
 
 now install yolo8
 pip install ultralytics
+
+
+
+https://drive.google.com/drive/folders/12qUS7kZHI4SPNaIhRRnEwe72esY7tOGq?usp=drive_link
