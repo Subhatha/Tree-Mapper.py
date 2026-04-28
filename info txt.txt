@@ -12,3 +12,7 @@ pip install ultralytics
 
 
 https://drive.google.com/drive/folders/12qUS7kZHI4SPNaIhRRnEwe72esY7tOGq?usp=drive_link
+
+
+
+https://drive.google.com/drive/folders/12qUS7kZHI4SPNaIhRRnEwe72esY7tOGq?usp=drive_link
